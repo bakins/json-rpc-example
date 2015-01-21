@@ -50,7 +50,7 @@ curl -sv --compressed -H "Content-Type: application/json" -d '{"method":"Arith.D
 ## Additional features
 
 [expvar](http://golang.org/pkg/expvar) and
-[pprof](http://golang.org/pkg/net/http/pprof/) are availible at there
+[pprof](http://golang.org/pkg/net/http/pprof/) are availible at their
 normal endpoints (/debug/vars, etc).
 
 
